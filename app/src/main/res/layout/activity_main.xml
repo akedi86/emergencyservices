@@ -52,10 +52,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:id="@+id/policeBtn"
             android:layout_marginEnd="20dp">
 
             <ImageView
+                android:id="@+id/policeBtn"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:src="@drawable/police"/>
@@ -73,10 +73,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:id="@+id/hospitalBtn"
+
             android:background="@drawable/white_background_stroked_rounded_corners">
 
             <ImageView
+                android:id="@+id/hospitalBtn"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:src="@drawable/hospital"/>
@@ -106,10 +107,11 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginEnd="20dp"
-            android:id="@+id/breakDownBtn"
+
             android:background="@drawable/white_background_stroked_rounded_corners">
 
             <ImageView
+                android:id="@+id/breakDownBtn"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:src="@drawable/breakdown"/>
@@ -127,10 +129,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:id="@+id/generalBtn"
+
             android:background="@drawable/white_background_stroked_rounded_corners">
 
             <ImageView
+                android:id="@+id/generalBtn"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:src="@drawable/generalemergency"/>
@@ -160,10 +163,10 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginEnd="20dp"
-            android:id="@+id/fireBtn"
             android:background="@drawable/white_background_stroked_rounded_corners">
 
             <ImageView
+                android:id="@+id/fireBtn"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:src="@drawable/fire"/>

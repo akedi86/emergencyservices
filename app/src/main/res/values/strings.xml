@@ -3,7 +3,7 @@
     <string name="retrieving_location" />
     <string name="click_to_view_location" />
     <string name="view_your_location" />
-    <string name="location_not_found"/>
+    <string name="location_not_found" />
     <string-array name="bloodTypesArray">
         <item>A+</item>
         <item>A-</item>
